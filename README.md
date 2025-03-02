@@ -65,15 +65,15 @@ This will launch the game in your default web browser.
 
 ### Victory Screen
 
-[Victory Screen](external_resources\Victory_Screen.mp4)
+[Victory Screen](https://github.com/HiT-T/Space-Invaders/blob/main/external_resources/Victory_Screen.mp4)
 
 ### Defeat by Collision
 
-[Defeat by Collision](external_resources\Defeat_by_Collision.mp4)
+[Defeat by Collision](https://github.com/HiT-T/Space-Invaders/blob/main/external_resources/Defeat_by_Collision.mp4)
 
 ### Defeat by Alien Reaching Bottom
  
-[Defeat by Alien Reaching Bottom](external_resources\Defeat_by_Alien_Reaching_Bottom.mp4)
+[Defeat by Alien Reaching Bottom](https://github.com/HiT-T/Space-Invaders/blob/main/external_resources/Defeat_by_Alien_Reaching_Bottom.mp4)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
