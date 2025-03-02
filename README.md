@@ -1,6 +1,6 @@
 # Space Invaders
 
-![Game Screenshot](spaceArt\spaceArt.svg)
+![Game Screenshot](spaceArt/spaceArt.svg)
 
 ## About
 
@@ -65,24 +65,15 @@ This will launch the game in your default web browser.
 
 ### Victory Screen
 
-<video width="640" height="360" controls>
-  <source src="external_resources\Victory_Screen.mp4" type="video/mp4">
-  Your browser doesn't support this video.
-</video>
+[Victory Screen](external_resources\Victory_Screen.mp4)
 
 ### Defeat by Collision
 
-<video width="640" height="360" controls>
-  <source src="external_resources\Defeat_by_Collision.mp4" type="video/mp4">
-  Your browser doesn't support this video.
-</video>
+[Defeat by Collision](external_resources\Defeat_by_Collision.mp4)
 
 ### Defeat by Alien Reaching Bottom
-
-<video width="640" height="360" controls>
-  <source src="external_resources\Defeat_by_Alien_Reaching_Bottom.mp4" type="video/mp4">
-  Your browser doesn't support this video.
-</video>
+ 
+[Defeat by Alien Reaching Bottom](external_resources\Defeat_by_Alien_Reaching_Bottom.mp4)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
