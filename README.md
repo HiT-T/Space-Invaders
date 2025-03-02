@@ -40,8 +40,7 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 ## Features
 
-- **Classic Gameplay**: Experience the nostalgic feel of the original Space Invaders game.
-- **Increasing Difficulty**: As aliens are destroyed, their movement speed increases, challenging the player.
+- **Classic Gameplay**: Experience the nostalgic feel of the original Space Invaders game.u
 - **Score Tracking**: Keep track of your score based on the number and type of aliens destroyed.
 - **Lives Indicator**: Displays the remaining lives of the player.
 
