@@ -14,7 +14,7 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 - **Object-Oriented Design**: The game utilizes JavaScript classes to represent various game entities, such as the player, enemies, and lasers. This modular approach enhances code readability and maintainability.
 
-- **Game Loop**: A continuous game loop is implemented using ```requestAnimationFrame, ensuring smooth rendering and updates of game objects.
+- **Game Loop**: A continuous game loop is implemented using `requestAnimationFrame`, ensuring smooth rendering and updates of game objects.
 
 - **Event Handling**: Keyboard events are captured to control the player's spaceship movements and actions, providing an interactive gaming experience.
 
