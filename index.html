@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    <title>Space Invaders</title>
+    <meta charset='utf-8' />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+    <meta name='viewport' content='width=device-width, initial-scale=1' />
+</head>
+<html>
+  <body>
+    <stage id="stage">
+      <canvas id ="game-layer" width="1024" height="768"></canvas>
+      <canvas id ="background-layer" width="1024" height="768"></canvas>
+    </stage>
+    <style>
+      #stage {
+        width: 1024px;
+        height: 768px;
+        position: relative;
+        border: 2px solid black;
+      }
+
+      canvas {
+        position: absolute;
+      }
+      #game-layer {
+        z-index: 2;
+      }
+      #background-layer {
+        z-index: 1;
+      }
+    </style>
+    <script src="app.js" defer></script>
+  </body>
+</html>
