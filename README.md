@@ -24,11 +24,11 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 ### Code Structure
 
-- ```app.js: Contains the core game logic, including class definitions for game entities, event listeners, the game loop, and collision detection mechanisms.
+- `app.js`: Contains the core game logic, including class definitions for game entities, event listeners, the game loop, and collision detection mechanisms.
 
-- ```index.html: Sets up the HTML5 canvas and includes the necessary scripts and styles.
+- `index.html`: Sets up the HTML5 canvas and includes the necessary scripts and styles.
 
-- ```package.json: Manages project dependencies and scripts, facilitating easy setup and development.
+- `package.json`: Manages project dependencies and scripts, facilitating easy setup and development.
 
 ## How to Play
 
