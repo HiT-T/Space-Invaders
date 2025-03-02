@@ -65,15 +65,15 @@ This will launch the game in your default web browser.
 
 ### Victory Screen
 
-[Victory Screen](external_resources\VictoryScreen-ezgif.com-video-to-gif-converter.gif)
+![Victory Screen](external_resources\VictoryScreen-ezgif.com-video-to-gif-converter.gif)
 
 ### Defeat by Collision
 
-[Defeat by Collision](external_resources\DefeatbyCollision-ezgif.com-video-to-gif-converter.gif)
+![Defeat by Collision](external_resources\DefeatbyCollision-ezgif.com-video-to-gif-converter.gif)
 
 ### Defeat by Alien Reaching Bottom
 
-[Defeat by Alien Reaching Bottom](external_resources\DefeatbyAlienReachingBottom-ezgif.com-video-to-gif-converter.gif)
+![Defeat by Alien Reaching Bottom](external_resources\DefeatbyAlienReachingBottom-ezgif.com-video-to-gif-converter.gif)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
