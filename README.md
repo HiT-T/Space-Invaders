@@ -14,7 +14,7 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 - **Object-Oriented Design**: The game utilizes JavaScript classes to represent various game entities, such as the player, enemies, and lasers. This modular approach enhances code readability and maintainability.
 
-- **Game Loop**: A continuous game loop is implemented using ```requestAnimationFrame, ensuring smooth rendering and updates of game objects.
+- **Game Loop**: A continuous game loop is implemented using `requestAnimationFrame`, ensuring smooth rendering and updates of game objects.
 
 - **Event Handling**: Keyboard events are captured to control the player's spaceship movements and actions, providing an interactive gaming experience.
 
@@ -24,11 +24,11 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 ### Code Structure
 
-- ```app.js: Contains the core game logic, including class definitions for game entities, event listeners, the game loop, and collision detection mechanisms.
+- `app.js`: Contains the core game logic, including class definitions for game entities, event listeners, the game loop, and collision detection mechanisms.
 
-- ```index.html: Sets up the HTML5 canvas and includes the necessary scripts and styles.
+- `index.html`: Sets up the HTML5 canvas and includes the necessary scripts and styles.
 
-- ```package.json: Manages project dependencies and scripts, facilitating easy setup and development.
+- `package.json`: Manages project dependencies and scripts, facilitating easy setup and development.
 
 ## How to Play
 
@@ -65,24 +65,15 @@ This will launch the game in your default web browser.
 
 ### Victory Screen
 
-<video width="640" height="360" controls>
-  <source src="external_resources\Victory_Screen.mp4" type="video/mp4">
-  Your browser doesn't support this video.
-</video>
+[Victory Screen](external_resources\VictoryScreen-ezgif.com-video-to-gif-converter.gif)
 
 ### Defeat by Collision
 
-<video width="640" height="360" controls>
-  <source src="external_resources\Defeat_by_Collision.mp4" type="video/mp4">
-  Your browser doesn't support this video.
-</video>
+[Defeat by Collision](external_resources\DefeatbyCollision-ezgif.com-video-to-gif-converter.gif)
 
 ### Defeat by Alien Reaching Bottom
 
-<video width="640" height="360" controls>
-  <source src="external_resources\Defeat_by_Alien_Reaching_Bottom.mp4" type="video/mp4">
-  Your browser doesn't support this video.
-</video>
+[Defeat by Alien Reaching Bottom](external_resources\DefeatbyAlienReachingBottom-ezgif.com-video-to-gif-converter.gif)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
