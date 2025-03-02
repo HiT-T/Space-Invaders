@@ -90,4 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Developed following the Web-Dev-For-Beginners curriculum by Microsoft.
 - Special thanks to the open-source community for assets and resources.
-javascript
