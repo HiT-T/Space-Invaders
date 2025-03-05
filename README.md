@@ -53,7 +53,7 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
    git clone https://github.com/HiT-T/Space-Invaders.git
 2. Navigate to the project directory:
     ```bash
-    cd space-invaders
+    cd Space-Invaders
 3. Install dependencies:
     ```bash
     npm install
