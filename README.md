@@ -4,7 +4,7 @@
 
 ## About
 
-Space Invaders is a classic two-dimensional fixed shooter game where the player controls a spaceship, moving it horizontally across the bottom of the screen to fire at descending aliens. The objective is to defeat five rows of ten aliens that move horizontally back and forth, advancing towards the bottom of the screen. The player earns points by shooting the aliens and loses when all lives are depleted or when aliens reach the bottom of the screen.
+Space Invaders is a classic two-dimensional shooter game where the player controls a spaceship, moving it freely on the screen to fire at descending aliens. The objective is to defeat five rows of ten aliens that advance towards the bottom of the screen. The player earns points by shooting the aliens and loses when all lives are killed or when aliens reach the bottom of the screen.
 
 ## Technical Implementation
 
