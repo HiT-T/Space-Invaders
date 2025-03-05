@@ -18,6 +18,8 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 - **Event Handling**: Keyboard events are captured to control the player's spaceship movements and actions, providing an interactive gaming experience.
 
+- **Pub-Sub Pattern**: Use `EventEmitter` class to let game objects subscribe an message, and send the message when the corresponding event is captured, enhancing modularity and scalability.
+
 - **Collision Detection**: The game includes logic to detect collisions between lasers and enemies, as well as between enemies and the player, enabling appropriate responses like scoring points or losing lives.
 
 - **Asset Management**: Images and other assets are preloaded to ensure efficient rendering during gameplay.
