@@ -50,7 +50,7 @@ This project was developed following the guidance from Microsoft's Web-Dev-For-B
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/space-invaders.git
+   git clone https://github.com/HiT-T/Space-Invaders.git
 2. Navigate to the project directory:
     ```bash
     cd space-invaders
